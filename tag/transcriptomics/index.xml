@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>transcriptomics | Nicholas Owen</title><link>https://nicholas-owen.github.io/tag/transcriptomics/</link><atom:link href="https://nicholas-owen.github.io/tag/transcriptomics/index.xml" rel="self" type="application/rss+xml"/><description>transcriptomics</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://nicholas-owen.github.io/media/icon_hu07429c437791d875b8a61cf6e8a19306_182833_512x512_fill_lanczos_center_3.png</url><title>transcriptomics</title><link>https://nicholas-owen.github.io/tag/transcriptomics/</link></image><item><title>Identification of novel coloboma candidate genes through conserved gene expression analyses across four vertebrate species</title><link>https://nicholas-owen.github.io/publication/pmid36830662/</link><pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid36830662/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.3390/biom13020293" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.3390/biom13020293" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;a href="https://plu.mx/plum/a/?doi=10.3390/biom13020293"
+data-orientation="horizontal"
+data-no-link="true"
+data-hide-print="true"
+class="plumx-details"
+data-site="plum"
+data-hide-when-empty="true">
+&lt;/a>
+&lt;/div>
+&lt;/section></description></item><item><title>Loss of the crumbs cell polarity complex disrupts epigenetic transcriptional control and cell cycle progression in the developing retina</title><link>https://nicholas-owen.github.io/publication/pmid36656098/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid36656098/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1002/path.6056" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1002/path.6056" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;a href="https://plu.mx/plum/a/?doi=10.1002/path.6056"
+data-orientation="horizontal"
+data-no-link="true"
+data-hide-print="true"
+class="plumx-details"
+data-site="plum"
+data-hide-when-empty="true">
+&lt;/a>
+&lt;/div>
+&lt;/section></description></item><item><title>RNA-seq : The Pros and Cons of Bulk &amp; Single Cell Transcriptomics</title><link>https://nicholas-owen.github.io/talk/rna-seq-the-pros-and-cons-of-bulk-single-cell-transcriptomics/</link><pubDate>Thu, 16 Jun 2022 13:00:01 +0000</pubDate><guid>https://nicholas-owen.github.io/talk/rna-seq-the-pros-and-cons-of-bulk-single-cell-transcriptomics/</guid><description>
+&lt;div class="responsive-wrap">
+&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQuipxYC_mq1XR5b5q6ATvtYsnt40xS0cJifMAwtKhrn1TL-c7nc_b_R24pYXiOCL35D8hb5AxCs3Ot/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>
+&lt;/div></description></item><item><title>Transcriptomic analysis of model systems</title><link>https://nicholas-owen.github.io/project/rna-seq-bulk/</link><pubDate>Wed, 01 Jun 2022 01:24:50 +0000</pubDate><guid>https://nicholas-owen.github.io/project/rna-seq-bulk/</guid><description>&lt;p>Cross species transcriptome analysis can be a powerful tool for identifying rare disease genes. By looking at the transcriptome of a variety of species, including humans, it is possible to identify genes that are differentially expressed in the diseased state. This can help to identify both disease-causing genes and genes that are involved in the underlying processes.&lt;/p>
+&lt;p>&lt;a href="https://en.wikipedia.org/wiki/RNA-Seq" target="_blank" rel="noopener">RNA transcriptomics&lt;/a> is the study of the transcriptome, which is the complete set of RNA molecules, including mRNA, lncRNA, piRNA, and asRNA, that are produced by a cell. Transcriptomics can be used to study the function of genes and to understand how the expression of genes is regulated. RNA-seq data analysis is the process of determining the function and structure of RNA molecules from high-throughput sequencing data, often termed &lt;a href="https://www.ebi.ac.uk/training/online/courses/functional-genomics-ii-common-technologies-and-data-analysis-methods/next-generation-sequencing/" target="_blank" rel="noopener">Next Generation Sequencing (NGS)&lt;/a>. This data can be used to understand the underlying changes in gene expression, regulation, in relation to disease or treatment states.&lt;/p>
+&lt;p>Bulk RNA-seq has been the defacto &lt;a href="https://www.nature.com/articles/s41598-020-76881-x" target="_blank" rel="noopener">gold standard&lt;/a> used to investigate changes in gene expression, in tissues (including archived samples), cells, and model systems. RNA-seq data analysis involves the identification and characterization of differentially expressed gene or gene sets using a variety of different algorithms.&lt;/p>
+&lt;figure id="figure-go-function">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_79920758157322802b1b87f57c70c0ad.webp 400w,
+/media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_06f21ab10dd7b484f389f8bc191bba74.webp 760w,
+/media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_79920758157322802b1b87f57c70c0ad.webp"
+width="760"
+height="241"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>We use bioinformatics of RNA-seq data to explore the functional relationships between the changes in feature (gene/transcript) expression between conditions. Initially modelling and identifying expression of differentially expressed genes (DEGs) allows us to test numerous hypothesis as to what may be driving these changes. Using enrichment and over-representation analysis allows us to furhter link observed changes between conditions to the underlying molecular defects controlling such changes.&lt;/p>
+&lt;p>Using various model systems; including zebrafish mutants, 3D retinal organoid optic cup vesiciles, patient cell lines, iPSC stem cells and standard cell lines, I am interested in how genetic variants in eye disease functionally come about. These diseases include:-&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.fightforsight.org.uk/get-involved/family-funds-dedicated-groups/teamcrb1/" target="_blank" rel="noopener">CRB1-related Leber Congenital Amaurosis (LCA) and Retinitis Pigmentosa (RP)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rarediseases.info.nih.gov/diseases/5440/usher-syndrome-type-2a" target="_blank" rel="noopener">Ushers Syndrome&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://macs.org.uk/" target="_blank" rel="noopener">MAC (Microphthalmia, Anophthalmia and Coloboma)&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://iovs.arvojournals.org/article.aspx?articleid=2711472" target="_blank" rel="noopener">RDH12-related retinitis pigmentosa&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pubmed.ncbi.nlm.nih.gov/34405458/" target="_blank" rel="noopener">Myopia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;figure id="figure-gel-raredisease">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_6b4e8bd8d7f9f6066a28e84c849afadc.webp 400w,
+/media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_0185a8fd51352ab2ff5856a650cf5730.webp 760w,
+/media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_6b4e8bd8d7f9f6066a28e84c849afadc.webp"
+width="760"
+height="231"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>Using an analagous approach with the &lt;a href="https://www.genomicsengland.co.uk/initiatives/100000-genomes-project/rare-disease" target="_blank" rel="noopener">Genomics England 100,000 Genomes rare disease dataset (GEL)&lt;/a>, I utilise the RNA-seq data to identify potential novel causative genes from variants of uncertain significance (VUS) in specific patient cohorts.&lt;/p>
+&lt;p>Bioinformatics is used to term a field of biology that deals with the application of computer techniques to the management and analysis of biological data.&lt;/p></description></item><item><title>BMPR1B identified as a novel human ocular coloboma gene through cross-species meta-analysis</title><link>https://nicholas-owen.github.io/talk/bmpr1b-identified-as-a-novel-human-ocular-coloboma-gene-through-cross-species-meta-analysis/</link><pubDate>Tue, 03 May 2022 08:34:01 +0000</pubDate><guid>https://nicholas-owen.github.io/talk/bmpr1b-identified-as-a-novel-human-ocular-coloboma-gene-through-cross-species-meta-analysis/</guid><description>
+&lt;div class="responsive-wrap">
+&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnd3yFUI1kvZ6ftlYKNlhPdIvfWIekuUKVQbAEk_c_uDz6C6vq6XwP1JWpmM_NPyIG18F2rnBKQYPA/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>
+&lt;/div></description></item><item><title>Calling Variants from RNA-seq data</title><link>https://nicholas-owen.github.io/post/2022_04_02_rna-seq_variants/</link><pubDate>Sat, 02 Apr 2022 16:41:43 +0000</pubDate><guid>https://nicholas-owen.github.io/post/2022_04_02_rna-seq_variants/</guid><description>&lt;p>The current gold standard method of choice to study transcriptome expression is RNA-seq. This is commonly used to study gene expression patterns in a number of organisms; including human, animals and plants, in order to further understand genetic mechanisms underlying phenotype determination, diseases and results of environmental changes. Not only can RNA-seq analysis be used for gene expression, transcript modelling including the identification of novel expressed isoforms or alternative exon usage has become more popular. Examination of the long non-coding RNA atlas (lncRNA) and micro RNAs (miRNA) can readily be carried out using specific RNA-seq approaches. Combined with DNA-seq SNPs have been studied with feature expression data to identify expression quantitative trait locus (eQTL) via GWAS mapping or allele-specific expression (ASE) (for example the human GTEx Consortium, 2020).&lt;/p>
+&lt;p>With the phenomenon of RNA editing, where a nucleotide change can be observed at the RNA level, post DNA transcription, it is possible that variants can only be observed at the RNA level, absent at DNA level (such as WGS or WES). Therefore RNA-seq can also detect genomic variants in expressed regions of the genome, in addition to DNA-seq. With the current costs of RNA-seq per sample around £300 for 75M paired end reads (150bp), RNA-seq is an attractive approach for variant discovery.&lt;/p>
+&lt;p>Although there are clear advantages in using RNA-seq data for coding region SNP detection, it is not commonly carried out. There are a number of hurdles to overcome:&lt;/p>
+&lt;ul>
+&lt;li>transcriptome consists of mature/spliced transcripts&lt;/li>
+&lt;li>short reads frequently overlap exon-exon junctions&lt;/li>
+&lt;li>reads are commonly split using N cigars&lt;/li>
+&lt;/ul>
+&lt;p>There are distinct stages of analysis for variant calling from RNA-seq data. I will try to encompass all of them, so please skip ahead to sections you require.&lt;/p>
+&lt;p>Assumptions I will make: you have the raw reads processed for base scoring and quality controlled, removed adapters, a reference genome has been downloaded and indexes created for the &lt;a href="https://github.com/alexdobin/STAR" target="_blank" rel="noopener">STAR&lt;/a> splice-aware aligner, reads have been aligned using the index with two-pass alignment using STAR.&lt;/p>
+&lt;p>Key notes: ensure that ReadGroups have been added to your resulting BAM files - this can either be done within the aligner command with the argument
+&lt;code>--outSAMattrRGline ID:${sample_id} CN:{SampleCentre} DS:RNAseq LB:{LibraryType} PL:{Platform} SM:${sample_id}&lt;/code>&lt;/p>
+&lt;p>I am going to skip over the initial steps of quality control (QC) and alignment with STAR, as those are outlined in the RNA-seq workflow I have on github. There are however some key files that should have been generated when processing the reference genome fasta (.fa) and aligner index files. Ensure that the reference .fa is indexed correctly, I recommend &lt;a href="http://www.htslib.org/doc/samtools-faidx.html" target="_blank" rel="noopener">&lt;code>samtools faidx&lt;/code>&lt;/a> and that a dictonary (.dict) file has been created, for example with the &lt;a href="https://gatk.broadinstitute.org/hc/en-us/articles/4405443616667-CreateSequenceDictionary-Picard-" target="_blank" rel="noopener">&lt;code>picard CreateSequenceDictionary&lt;/code>&lt;/a> tool.&lt;/p>
+&lt;p>Analysis:
+&lt;figure id="figure-wowchemy">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://drive.google.com/uc?id=1yLptERtjtDzx36vqAPZCMJgvbhASdsjq" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>QC&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Alignment&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Split N Cigar Reads&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Base quality recalibration&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Call variants&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Base Quality Recalibration&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>-BLURB-&lt;/p>
+&lt;p>One of the hurdles that you may encounter using the&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">pwd&lt;/span> lets go
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Omic's : from data to patients</title><link>https://nicholas-owen.github.io/talk/omics-from-data-to-patients/</link><pubDate>Wed, 17 Feb 2021 14:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/talk/omics-from-data-to-patients/</guid><description>
+&lt;div class="responsive-wrap">
+&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfZXywXnFfYZjs41d7ZwZqIPl1Skku1T48eClU4M7GlCu6CzDOfiZASp3exQqJztFlVekpmT9nUBUo/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>
+&lt;/div></description></item><item><title>From Transcriptomics to Treatment in Inherited Optic Neuropathies</title><link>https://nicholas-owen.github.io/publication/pmid33499292/</link><pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid33499292/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.3390/genes12020147" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="110.3390/genes12020147" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;/section></description></item><item><title>Transcriptome profiling of zebrafish optic fissure fusion</title><link>https://nicholas-owen.github.io/publication/pmid30733552/</link><pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid30733552/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1038/s41598-018-38379-5" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1038/s41598-018-38379-5" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;a href="https://plu.mx/plum/a/?doi=10.1038/s41598-018-38379-5"
+data-orientation="horizontal"
+data-no-link="true"
+data-hide-print="true"
+class="plumx-details"
+data-site="plum"
+data-hide-when-empty="true">
+&lt;/a>
+&lt;/div>
+&lt;/section></description></item><item><title>Genome-wide RNA-Sequencing analysis identifies a distinct fibrosis gene signature in the conjunctiva after glaucoma surgery</title><link>https://nicholas-owen.github.io/publication/pmid28717200/</link><pubDate>Mon, 17 Jul 2017 15:17:54 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid28717200/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1038/s41598-017-05780-5" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1038/s41598-017-05780-5" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;/section></description></item></channel></rss>

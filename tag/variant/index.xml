@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Variant | Nicholas Owen</title><link>https://nicholas-owen.github.io/tag/variant/</link><atom:link href="https://nicholas-owen.github.io/tag/variant/index.xml" rel="self" type="application/rss+xml"/><description>Variant</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 16:41:43 +0000</lastBuildDate><image><url>https://nicholas-owen.github.io/media/icon_hu07429c437791d875b8a61cf6e8a19306_182833_512x512_fill_lanczos_center_3.png</url><title>Variant</title><link>https://nicholas-owen.github.io/tag/variant/</link></image><item><title>Calling Variants from RNA-seq data</title><link>https://nicholas-owen.github.io/post/2022_04_02_rna-seq_variants/</link><pubDate>Sat, 02 Apr 2022 16:41:43 +0000</pubDate><guid>https://nicholas-owen.github.io/post/2022_04_02_rna-seq_variants/</guid><description>&lt;p>The current gold standard method of choice to study transcriptome expression is RNA-seq. This is commonly used to study gene expression patterns in a number of organisms; including human, animals and plants, in order to further understand genetic mechanisms underlying phenotype determination, diseases and results of environmental changes. Not only can RNA-seq analysis be used for gene expression, transcript modelling including the identification of novel expressed isoforms or alternative exon usage has become more popular. Examination of the long non-coding RNA atlas (lncRNA) and micro RNAs (miRNA) can readily be carried out using specific RNA-seq approaches. Combined with DNA-seq SNPs have been studied with feature expression data to identify expression quantitative trait locus (eQTL) via GWAS mapping or allele-specific expression (ASE) (for example the human GTEx Consortium, 2020).&lt;/p>
+&lt;p>With the phenomenon of RNA editing, where a nucleotide change can be observed at the RNA level, post DNA transcription, it is possible that variants can only be observed at the RNA level, absent at DNA level (such as WGS or WES). Therefore RNA-seq can also detect genomic variants in expressed regions of the genome, in addition to DNA-seq. With the current costs of RNA-seq per sample around £300 for 75M paired end reads (150bp), RNA-seq is an attractive approach for variant discovery.&lt;/p>
+&lt;p>Although there are clear advantages in using RNA-seq data for coding region SNP detection, it is not commonly carried out. There are a number of hurdles to overcome:&lt;/p>
+&lt;ul>
+&lt;li>transcriptome consists of mature/spliced transcripts&lt;/li>
+&lt;li>short reads frequently overlap exon-exon junctions&lt;/li>
+&lt;li>reads are commonly split using N cigars&lt;/li>
+&lt;/ul>
+&lt;p>There are distinct stages of analysis for variant calling from RNA-seq data. I will try to encompass all of them, so please skip ahead to sections you require.&lt;/p>
+&lt;p>Assumptions I will make: you have the raw reads processed for base scoring and quality controlled, removed adapters, a reference genome has been downloaded and indexes created for the &lt;a href="https://github.com/alexdobin/STAR" target="_blank" rel="noopener">STAR&lt;/a> splice-aware aligner, reads have been aligned using the index with two-pass alignment using STAR.&lt;/p>
+&lt;p>Key notes: ensure that ReadGroups have been added to your resulting BAM files - this can either be done within the aligner command with the argument
+&lt;code>--outSAMattrRGline ID:${sample_id} CN:{SampleCentre} DS:RNAseq LB:{LibraryType} PL:{Platform} SM:${sample_id}&lt;/code>&lt;/p>
+&lt;p>I am going to skip over the initial steps of quality control (QC) and alignment with STAR, as those are outlined in the RNA-seq workflow I have on github. There are however some key files that should have been generated when processing the reference genome fasta (.fa) and aligner index files. Ensure that the reference .fa is indexed correctly, I recommend &lt;a href="http://www.htslib.org/doc/samtools-faidx.html" target="_blank" rel="noopener">&lt;code>samtools faidx&lt;/code>&lt;/a> and that a dictonary (.dict) file has been created, for example with the &lt;a href="https://gatk.broadinstitute.org/hc/en-us/articles/4405443616667-CreateSequenceDictionary-Picard-" target="_blank" rel="noopener">&lt;code>picard CreateSequenceDictionary&lt;/code>&lt;/a> tool.&lt;/p>
+&lt;p>Analysis:
+&lt;figure id="figure-wowchemy">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://drive.google.com/uc?id=1yLptERtjtDzx36vqAPZCMJgvbhASdsjq" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>QC&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Alignment&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Split N Cigar Reads&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Base quality recalibration&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Call variants&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Base Quality Recalibration&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>-BLURB-&lt;/p>
+&lt;p>One of the hurdles that you may encounter using the&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">pwd&lt;/span> lets go
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>

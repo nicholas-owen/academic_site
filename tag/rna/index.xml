@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RNA | Nicholas Owen</title><link>https://nicholas-owen.github.io/tag/rna/</link><atom:link href="https://nicholas-owen.github.io/tag/rna/index.xml" rel="self" type="application/rss+xml"/><description>RNA</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 01:24:50 +0000</lastBuildDate><image><url>https://nicholas-owen.github.io/media/icon_hu07429c437791d875b8a61cf6e8a19306_182833_512x512_fill_lanczos_center_3.png</url><title>RNA</title><link>https://nicholas-owen.github.io/tag/rna/</link></image><item><title>Transcriptomic analysis of model systems</title><link>https://nicholas-owen.github.io/project/rna-seq-bulk/</link><pubDate>Wed, 01 Jun 2022 01:24:50 +0000</pubDate><guid>https://nicholas-owen.github.io/project/rna-seq-bulk/</guid><description>&lt;p>Cross species transcriptome analysis can be a powerful tool for identifying rare disease genes. By looking at the transcriptome of a variety of species, including humans, it is possible to identify genes that are differentially expressed in the diseased state. This can help to identify both disease-causing genes and genes that are involved in the underlying processes.&lt;/p>
+&lt;p>&lt;a href="https://en.wikipedia.org/wiki/RNA-Seq" target="_blank" rel="noopener">RNA transcriptomics&lt;/a> is the study of the transcriptome, which is the complete set of RNA molecules, including mRNA, lncRNA, piRNA, and asRNA, that are produced by a cell. Transcriptomics can be used to study the function of genes and to understand how the expression of genes is regulated. RNA-seq data analysis is the process of determining the function and structure of RNA molecules from high-throughput sequencing data, often termed &lt;a href="https://www.ebi.ac.uk/training/online/courses/functional-genomics-ii-common-technologies-and-data-analysis-methods/next-generation-sequencing/" target="_blank" rel="noopener">Next Generation Sequencing (NGS)&lt;/a>. This data can be used to understand the underlying changes in gene expression, regulation, in relation to disease or treatment states.&lt;/p>
+&lt;p>Bulk RNA-seq has been the defacto &lt;a href="https://www.nature.com/articles/s41598-020-76881-x" target="_blank" rel="noopener">gold standard&lt;/a> used to investigate changes in gene expression, in tissues (including archived samples), cells, and model systems. RNA-seq data analysis involves the identification and characterization of differentially expressed gene or gene sets using a variety of different algorithms.&lt;/p>
+&lt;figure id="figure-go-function">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_79920758157322802b1b87f57c70c0ad.webp 400w,
+/media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_06f21ab10dd7b484f389f8bc191bba74.webp 760w,
+/media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_79920758157322802b1b87f57c70c0ad.webp"
+width="760"
+height="241"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>We use bioinformatics of RNA-seq data to explore the functional relationships between the changes in feature (gene/transcript) expression between conditions. Initially modelling and identifying expression of differentially expressed genes (DEGs) allows us to test numerous hypothesis as to what may be driving these changes. Using enrichment and over-representation analysis allows us to furhter link observed changes between conditions to the underlying molecular defects controlling such changes.&lt;/p>
+&lt;p>Using various model systems; including zebrafish mutants, 3D retinal organoid optic cup vesiciles, patient cell lines, iPSC stem cells and standard cell lines, I am interested in how genetic variants in eye disease functionally come about. These diseases include:-&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.fightforsight.org.uk/get-involved/family-funds-dedicated-groups/teamcrb1/" target="_blank" rel="noopener">CRB1-related Leber Congenital Amaurosis (LCA) and Retinitis Pigmentosa (RP)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rarediseases.info.nih.gov/diseases/5440/usher-syndrome-type-2a" target="_blank" rel="noopener">Ushers Syndrome&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://macs.org.uk/" target="_blank" rel="noopener">MAC (Microphthalmia, Anophthalmia and Coloboma)&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://iovs.arvojournals.org/article.aspx?articleid=2711472" target="_blank" rel="noopener">RDH12-related retinitis pigmentosa&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pubmed.ncbi.nlm.nih.gov/34405458/" target="_blank" rel="noopener">Myopia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;figure id="figure-gel-raredisease">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_6b4e8bd8d7f9f6066a28e84c849afadc.webp 400w,
+/media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_0185a8fd51352ab2ff5856a650cf5730.webp 760w,
+/media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_6b4e8bd8d7f9f6066a28e84c849afadc.webp"
+width="760"
+height="231"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>Using an analagous approach with the &lt;a href="https://www.genomicsengland.co.uk/initiatives/100000-genomes-project/rare-disease" target="_blank" rel="noopener">Genomics England 100,000 Genomes rare disease dataset (GEL)&lt;/a>, I utilise the RNA-seq data to identify potential novel causative genes from variants of uncertain significance (VUS) in specific patient cohorts.&lt;/p>
+&lt;p>Bioinformatics is used to term a field of biology that deals with the application of computer techniques to the management and analysis of biological data.&lt;/p></description></item><item><title>BORIS/CTCFL is an RNA-binding protein that associates with polysomes</title><link>https://nicholas-owen.github.io/publication/pmid24279897/</link><pubDate>Tue, 26 Nov 2013 14:46:39 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid24279897/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1186/1471-2121-14-52" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1186/1471-2121-14-52" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;/section></description></item></channel></rss>

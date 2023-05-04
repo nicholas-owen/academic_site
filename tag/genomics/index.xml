@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>genomics | Nicholas Owen</title><link>https://nicholas-owen.github.io/tag/genomics/</link><atom:link href="https://nicholas-owen.github.io/tag/genomics/index.xml" rel="self" type="application/rss+xml"/><description>genomics</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:13:01 +0000</lastBuildDate><image><url>https://nicholas-owen.github.io/media/icon_hu07429c437791d875b8a61cf6e8a19306_182833_512x512_fill_lanczos_center_3.png</url><title>genomics</title><link>https://nicholas-owen.github.io/tag/genomics/</link></image><item><title>Determining the functional disparty between CRB1 variants causing LCA and RP</title><link>https://nicholas-owen.github.io/project/project_crb1/</link><pubDate>Tue, 05 Jul 2022 00:13:01 +0000</pubDate><guid>https://nicholas-owen.github.io/project/project_crb1/</guid><description>&lt;p>&lt;em>CRB1&lt;/em>-related eye disease is a rare genetic disorder that affects the retina, the light-sensitive layer of tissue at the back of the eye &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. The &lt;em>CRB1&lt;/em> gene provides instructions for making a protein that is essential for the normal development and function of the retina. This protein helps to regulate the number and arrangement of light-sensitive cells in the retina. Variants in &lt;em>CRB1&lt;/em> disrupt the normal function of this protein, leading to the death of light-sensitive cells and as a result, people with &lt;em>CRB1&lt;/em> eye disease experience a progressive loss of vision. There is currently no cure for this disorder &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.&lt;/p>
+&lt;p>
+&lt;figure id="figure-crb1-genetic-variants-source-gnomad">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="&amp;lt;em&amp;gt;CRB1&amp;lt;/em&amp;gt; genetic variants" srcset="
+/media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_3b7ca1b0155513efcdb8f938c516f899.webp 400w,
+/media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_d0eb826d9f788f7ee215283921c11a4d.webp 760w,
+/media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_3b7ca1b0155513efcdb8f938c516f899.webp"
+width="760"
+height="157"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+&lt;em>CRB1&lt;/em> genetic variants &lt;em>source: gnomAD&lt;/em>
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>Leber&amp;rsquo;s congenital atrophy (&lt;a href="https://eyewiki.org/Leber_Congenital_Amaurosis" target="_blank" rel="noopener">LCA&lt;/a>) is a form of inherited blindness that is caused by the death of photoreceptor cells in the retina. Retinitis pigmentosa (&lt;a href="https://eyewiki.org/Retinitis_Pigmentosa" target="_blank" rel="noopener">RP&lt;/a>) is another inherited blindness that is caused by the degeneration of the retina. Both conditions can result from variants in &lt;em>CRB1&lt;/em> and may lead to complete blindness. How the distinct phenotypes result from variants in the same gene still remains unclear.&lt;/p>
+&lt;p>I use model systems to investigate several aspects of &lt;em>CRB1&lt;/em>-related eye disease:&lt;/p>
+&lt;ul>
+&lt;li>Using the zebrafish &lt;em>crb2a -/-&lt;/em> null model, I am studing how the transcriptome of the retina differences compared to wildtype controls. This has provided us key insights into the molecular changes resulting from loss of &lt;em>crb2a&lt;/em>, and has identified a novel control mechanism for this disease.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;figure id="figure-the-zebrafish-eye">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="The zebrafish eye" srcset="
+/media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_e855afe0832476f156321e3933af1677.webp 400w,
+/media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_86b8fe0b1cab89b9f12d3107427cb352.webp 760w,
+/media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_e855afe0832476f156321e3933af1677.webp"
+width="760"
+height="432"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+The zebrafish eye
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;ul>
+&lt;li>Cell lines are often a vital resource for research, especially those generated from tissue kindly provided by patients. We are in the fortunate position of having a patient kindly donate a skin biopsy to allow us to generate induce pluoripotent stem cells (iPSC). We can reprogramme these cells into different cell types and use them for downstream analysis. Reprogramming into 3D retinal organoids, early eye cups, gives us a fantastic model in which to assess molecular and cellular changes caused by the variants in the &lt;em>CRB1&lt;/em> gene.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;figure id="figure-3d-retinal-organoid-of-a-crb1-line">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="3D retinal organoid" srcset="
+/media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_7bd9328c1841f7510efe9a6880c0e576.webp 400w,
+/media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_6b9e141b99e158cd96ad80201d77cf33.webp 760w,
+/media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_7bd9328c1841f7510efe9a6880c0e576.webp"
+width="323"
+height="328"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+3D Retinal Organoid of a &lt;em>CRB1&lt;/em> line
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-gene-ontology-enrichment-analysis-of-crb2a----retina-transcrtipomes">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="3D retinal organoid" srcset="
+/media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_05d2e58803e6cb2255adfbd20c1d801b.webp 400w,
+/media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_001795230383f2b6de0bc92939d31de4.webp 760w,
+/media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_05d2e58803e6cb2255adfbd20c1d801b.webp"
+width="703"
+height="676"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Gene Ontology Enrichment Analysis of &lt;em>crb2a -/-&lt;/em> retina transcrtipomes.
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>We hope to assess several &lt;em>CRB1&lt;/em> patients with different variants to give us an insight into how genetic differences within the same gene could result in the varied phenotype (LCA/RP).&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Wellcome Trust" srcset="
+/media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_33163d7b20bd8e851ba4f8efb14aba9e.webp 400w,
+/media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_df1291e4ec12e2ee0bc55b428ad96a54.webp 760w,
+/media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_33163d7b20bd8e851ba4f8efb14aba9e.webp"
+width="100"
+height="100"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a href="https://crb1.org/for-families/faqs/what-is-crb1/" target="_blank" rel="noopener">What is &lt;em>CRB1&lt;/em>&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>&lt;a href="https://www.fightingblindness.org/research/horama-acquires-licensing-rights-to-crb1-gene-therapy-119" target="_blank" rel="noopener">Clinical trials information&lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Rare disease genetic diagnosis with the Genomic England 100,000 Genomes Project (GEL) UK</title><link>https://nicholas-owen.github.io/project/project_gel/</link><pubDate>Fri, 06 May 2022 00:13:01 +0000</pubDate><guid>https://nicholas-owen.github.io/project/project_gel/</guid><description>
+&lt;details class="toc-inpage d-print-none " open>
+&lt;summary class="font-weight-bold">Table of Contents&lt;/summary>
+&lt;nav id="TableOfContents">&lt;/nav>
+&lt;/details>
+&lt;p>Genome sequencing is the process of determining the complete DNA sequence of an organism&amp;rsquo;s genome. This includes all of the organism&amp;rsquo;s genes, as well as any non-coding DNA. Although the predicted number of human genes before 2003 was around 300,000, with the &lt;a href="https://www.genome.gov/25520492/online-education-kit-2003-human-genome-project-completed" target="_blank" rel="noopener">completion of the human genome&lt;/a> sequencing projects, it was discovered we only have around 21,000 genes &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. With further developments in sequencing approaches, new high throughput methods, and reduction in resources required, the average cost of sequencing the human genome of an individual has been reduced from $2 billion to approximately £700 &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.&lt;/p>
+&lt;p>Genome sequencing has revolutionized our understanding of biology and has had a major impact on many areas of science and medicine. For example, it has led to the development of new cancer therapies and has helped us to better understand the evolution of viruses.&lt;/p>
+&lt;p>In partnership with the &lt;a href="https://www.england.nhs.uk/genomics/what-is-genomics/" target="_blank" rel="noopener">NHS&lt;/a>, &lt;a href="https://www.genomicsengland.co.uk/about-us/origins" target="_blank" rel="noopener">Genomics England&lt;/a> intially was setup to provide 100,000 whole genomes set out by the UK government in 2015. This was achieved in 2018, when over 100,000 genomes of families with rare diseases or cancer had been generated, to provide sequence based diagnostics to these families &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>.&lt;/p>
+&lt;p>Academics, clinicians, and students worldwide can join the research community at GEL, the &lt;a href="https://legacy.genomicsengland.co.uk/about-gecip/" target="_blank" rel="noopener">Genomics England Clinical Interpretations Partnership&lt;/a> (GECIP, for short). Being part of several GECIPs (Hearing and Sight, Neuroscience, Quantitative methods, machine learning and functional genomics;) has enabled me to query both the whole genome as well as the human phenotype data to establish novel causes of known eye conditions, and novel variants of known genes using the Research Embassy secureenvironment. Whilst all patient data remains on the &lt;a href="https://www.genomicsengland.co.uk/research/academic" target="_blank" rel="noopener">GEL Research Embassy&lt;/a>, bioinformatic scripts I have generated can be readily found on my &lt;a href="https://nicholas-owen.github.io" target="_blank" rel="noopener">GitHub repo
+&lt;i class="fas fa-code-branch pr-1 fa-fw">&lt;/i> &lt;/a>.&lt;/p>
+&lt;p>
+&lt;figure id="figure-moving-forward-to-personalised-genomic-medicine">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Genomic Medicine" srcset="
+/media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_6d347c306b1c61c6986b17d8ba0948ff.webp 400w,
+/media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_d0d87baa5c9c1b3c134eb236cabc56e4.webp 760w,
+/media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_6d347c306b1c61c6986b17d8ba0948ff.webp"
+width="760"
+height="433"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+moving forward to personalised genomic medicine
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;!--- &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+--->
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a href="https://www.genome.gov/human-genome-project/timeline" target="_blank" rel="noopener">further information and timeline on the HGP&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>the costs associated with sequencing a genome fluctuate and this is only provided as a general guide. Often downstream analysis, such as variant prioritisation and validation add to service costs.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>&lt;a href="https://www.genomicsengland.co.uk/news/uk-sequenced-100000-genomes-nhs" target="_blank" rel="noopener">The UK has sequenced 100,000 whole genomes in the NHS&lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Identification of 4 novel human ocular coloboma genes ANK3, BMPR1B, PDGFRA, and CDH4 through evolutionary conserved vertebrate gene analysis</title><link>https://nicholas-owen.github.io/publication/pmid35034853/</link><pubDate>Thu, 13 Jan 2022 00:00:48 +0100</pubDate><guid>https://nicholas-owen.github.io/publication/pmid35034853/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1016/j.gim.2021.12.014" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1016/j.gim.2021.12.014" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;a href="https://plu.mx/plum/a/?doi=10.1016/j.gim.2021.12.014"
+data-orientation="horizontal"
+data-no-link="true"
+data-hide-print="true"
+class="plumx-details"
+data-site="plum"
+data-hide-when-empty="true">
+&lt;/a>
+&lt;/div>
+&lt;/section></description></item></channel></rss>

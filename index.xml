@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nicholas Owen</title><link>https://nicholas-owen.github.io/</link><atom:link href="https://nicholas-owen.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Nicholas Owen</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://nicholas-owen.github.io/media/icon_hu07429c437791d875b8a61cf6e8a19306_182833_512x512_fill_lanczos_center_3.png</url><title>Nicholas Owen</title><link>https://nicholas-owen.github.io/</link></image><item><title>Identification of novel coloboma candidate genes through conserved gene expression analyses across four vertebrate species</title><link>https://nicholas-owen.github.io/publication/pmid36830662/</link><pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid36830662/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.3390/biom13020293" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.3390/biom13020293" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;a href="https://plu.mx/plum/a/?doi=10.3390/biom13020293"
+data-orientation="horizontal"
+data-no-link="true"
+data-hide-print="true"
+class="plumx-details"
+data-site="plum"
+data-hide-when-empty="true">
+&lt;/a>
+&lt;/div>
+&lt;/section></description></item><item><title>Loss of the crumbs cell polarity complex disrupts epigenetic transcriptional control and cell cycle progression in the developing retina</title><link>https://nicholas-owen.github.io/publication/pmid36656098/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid36656098/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1002/path.6056" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1002/path.6056" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;a href="https://plu.mx/plum/a/?doi=10.1002/path.6056"
+data-orientation="horizontal"
+data-no-link="true"
+data-hide-print="true"
+class="plumx-details"
+data-site="plum"
+data-hide-when-empty="true">
+&lt;/a>
+&lt;/div>
+&lt;/section></description></item><item><title>Variant-specific disruption to SOX2-mediated Notch signalling in PAX6 patient hiPSC optic vesicles</title><link>https://nicholas-owen.github.io/publication/2023-jem/</link><pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/2023-jem/</guid><description/></item><item><title>Multi-omics analyses identify transcription factor interplay in corneal epithelial fate determination and disease</title><link>https://nicholas-owen.github.io/publication/biorixc/</link><pubDate>Fri, 14 Oct 2022 21:24:19 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/biorixc/</guid><description/></item><item><title>Determining the functional disparty between CRB1 variants causing LCA and RP</title><link>https://nicholas-owen.github.io/project/project_crb1/</link><pubDate>Tue, 05 Jul 2022 00:13:01 +0000</pubDate><guid>https://nicholas-owen.github.io/project/project_crb1/</guid><description>&lt;p>&lt;em>CRB1&lt;/em>-related eye disease is a rare genetic disorder that affects the retina, the light-sensitive layer of tissue at the back of the eye &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. The &lt;em>CRB1&lt;/em> gene provides instructions for making a protein that is essential for the normal development and function of the retina. This protein helps to regulate the number and arrangement of light-sensitive cells in the retina. Variants in &lt;em>CRB1&lt;/em> disrupt the normal function of this protein, leading to the death of light-sensitive cells and as a result, people with &lt;em>CRB1&lt;/em> eye disease experience a progressive loss of vision. There is currently no cure for this disorder &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.&lt;/p>
+&lt;p>
+&lt;figure id="figure-crb1-genetic-variants-source-gnomad">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="&amp;lt;em&amp;gt;CRB1&amp;lt;/em&amp;gt; genetic variants" srcset="
+/media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_3b7ca1b0155513efcdb8f938c516f899.webp 400w,
+/media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_d0eb826d9f788f7ee215283921c11a4d.webp 760w,
+/media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_3b7ca1b0155513efcdb8f938c516f899.webp"
+width="760"
+height="157"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+&lt;em>CRB1&lt;/em> genetic variants &lt;em>source: gnomAD&lt;/em>
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>Leber&amp;rsquo;s congenital atrophy (&lt;a href="https://eyewiki.org/Leber_Congenital_Amaurosis" target="_blank" rel="noopener">LCA&lt;/a>) is a form of inherited blindness that is caused by the death of photoreceptor cells in the retina. Retinitis pigmentosa (&lt;a href="https://eyewiki.org/Retinitis_Pigmentosa" target="_blank" rel="noopener">RP&lt;/a>) is another inherited blindness that is caused by the degeneration of the retina. Both conditions can result from variants in &lt;em>CRB1&lt;/em> and may lead to complete blindness. How the distinct phenotypes result from variants in the same gene still remains unclear.&lt;/p>
+&lt;p>I use model systems to investigate several aspects of &lt;em>CRB1&lt;/em>-related eye disease:&lt;/p>
+&lt;ul>
+&lt;li>Using the zebrafish &lt;em>crb2a -/-&lt;/em> null model, I am studing how the transcriptome of the retina differences compared to wildtype controls. This has provided us key insights into the molecular changes resulting from loss of &lt;em>crb2a&lt;/em>, and has identified a novel control mechanism for this disease.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;figure id="figure-the-zebrafish-eye">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="The zebrafish eye" srcset="
+/media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_e855afe0832476f156321e3933af1677.webp 400w,
+/media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_86b8fe0b1cab89b9f12d3107427cb352.webp 760w,
+/media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_e855afe0832476f156321e3933af1677.webp"
+width="760"
+height="432"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+The zebrafish eye
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;ul>
+&lt;li>Cell lines are often a vital resource for research, especially those generated from tissue kindly provided by patients. We are in the fortunate position of having a patient kindly donate a skin biopsy to allow us to generate induce pluoripotent stem cells (iPSC). We can reprogramme these cells into different cell types and use them for downstream analysis. Reprogramming into 3D retinal organoids, early eye cups, gives us a fantastic model in which to assess molecular and cellular changes caused by the variants in the &lt;em>CRB1&lt;/em> gene.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;figure id="figure-3d-retinal-organoid-of-a-crb1-line">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="3D retinal organoid" srcset="
+/media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_7bd9328c1841f7510efe9a6880c0e576.webp 400w,
+/media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_6b9e141b99e158cd96ad80201d77cf33.webp 760w,
+/media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_7bd9328c1841f7510efe9a6880c0e576.webp"
+width="323"
+height="328"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+3D Retinal Organoid of a &lt;em>CRB1&lt;/em> line
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-gene-ontology-enrichment-analysis-of-crb2a----retina-transcrtipomes">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="3D retinal organoid" srcset="
+/media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_05d2e58803e6cb2255adfbd20c1d801b.webp 400w,
+/media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_001795230383f2b6de0bc92939d31de4.webp 760w,
+/media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_05d2e58803e6cb2255adfbd20c1d801b.webp"
+width="703"
+height="676"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Gene Ontology Enrichment Analysis of &lt;em>crb2a -/-&lt;/em> retina transcrtipomes.
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>We hope to assess several &lt;em>CRB1&lt;/em> patients with different variants to give us an insight into how genetic differences within the same gene could result in the varied phenotype (LCA/RP).&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Wellcome Trust" srcset="
+/media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_33163d7b20bd8e851ba4f8efb14aba9e.webp 400w,
+/media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_df1291e4ec12e2ee0bc55b428ad96a54.webp 760w,
+/media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_33163d7b20bd8e851ba4f8efb14aba9e.webp"
+width="100"
+height="100"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a href="https://crb1.org/for-families/faqs/what-is-crb1/" target="_blank" rel="noopener">What is &lt;em>CRB1&lt;/em>&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>&lt;a href="https://www.fightingblindness.org/research/horama-acquires-licensing-rights-to-crb1-gene-therapy-119" target="_blank" rel="noopener">Clinical trials information&lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Identification of novel human ocular coloboma genes through evolutionary conserved vertebrate gene analysis</title><link>https://nicholas-owen.github.io/talk/identification-of-novel-human-ocular-coloboma-genes-through-evolutionary-conserved-vertebrate-gene-analysis/</link><pubDate>Tue, 28 Jun 2022 14:00:13 +0000</pubDate><guid>https://nicholas-owen.github.io/talk/identification-of-novel-human-ocular-coloboma-genes-through-evolutionary-conserved-vertebrate-gene-analysis/</guid><description>
+&lt;div class="responsive-wrap">
+&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSQ7HdCZi0Jkzs-dfrVGh9eoKHq16Mq3v4N_scK_rSuYoxSCRafjNqguRc9i1CVPOtgxjWXEa-o0n8l/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>
+&lt;/div></description></item><item><title>RNA-seq : The Pros and Cons of Bulk &amp; Single Cell Transcriptomics</title><link>https://nicholas-owen.github.io/talk/rna-seq-the-pros-and-cons-of-bulk-single-cell-transcriptomics/</link><pubDate>Thu, 16 Jun 2022 13:00:01 +0000</pubDate><guid>https://nicholas-owen.github.io/talk/rna-seq-the-pros-and-cons-of-bulk-single-cell-transcriptomics/</guid><description>
+&lt;div class="responsive-wrap">
+&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQuipxYC_mq1XR5b5q6ATvtYsnt40xS0cJifMAwtKhrn1TL-c7nc_b_R24pYXiOCL35D8hb5AxCs3Ot/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>
+&lt;/div></description></item><item><title>Transcriptomic analysis of model systems</title><link>https://nicholas-owen.github.io/project/rna-seq-bulk/</link><pubDate>Wed, 01 Jun 2022 01:24:50 +0000</pubDate><guid>https://nicholas-owen.github.io/project/rna-seq-bulk/</guid><description>&lt;p>Cross species transcriptome analysis can be a powerful tool for identifying rare disease genes. By looking at the transcriptome of a variety of species, including humans, it is possible to identify genes that are differentially expressed in the diseased state. This can help to identify both disease-causing genes and genes that are involved in the underlying processes.&lt;/p>
+&lt;p>&lt;a href="https://en.wikipedia.org/wiki/RNA-Seq" target="_blank" rel="noopener">RNA transcriptomics&lt;/a> is the study of the transcriptome, which is the complete set of RNA molecules, including mRNA, lncRNA, piRNA, and asRNA, that are produced by a cell. Transcriptomics can be used to study the function of genes and to understand how the expression of genes is regulated. RNA-seq data analysis is the process of determining the function and structure of RNA molecules from high-throughput sequencing data, often termed &lt;a href="https://www.ebi.ac.uk/training/online/courses/functional-genomics-ii-common-technologies-and-data-analysis-methods/next-generation-sequencing/" target="_blank" rel="noopener">Next Generation Sequencing (NGS)&lt;/a>. This data can be used to understand the underlying changes in gene expression, regulation, in relation to disease or treatment states.&lt;/p>
+&lt;p>Bulk RNA-seq has been the defacto &lt;a href="https://www.nature.com/articles/s41598-020-76881-x" target="_blank" rel="noopener">gold standard&lt;/a> used to investigate changes in gene expression, in tissues (including archived samples), cells, and model systems. RNA-seq data analysis involves the identification and characterization of differentially expressed gene or gene sets using a variety of different algorithms.&lt;/p>
+&lt;figure id="figure-go-function">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_79920758157322802b1b87f57c70c0ad.webp 400w,
+/media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_06f21ab10dd7b484f389f8bc191bba74.webp 760w,
+/media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_79920758157322802b1b87f57c70c0ad.webp"
+width="760"
+height="241"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>We use bioinformatics of RNA-seq data to explore the functional relationships between the changes in feature (gene/transcript) expression between conditions. Initially modelling and identifying expression of differentially expressed genes (DEGs) allows us to test numerous hypothesis as to what may be driving these changes. Using enrichment and over-representation analysis allows us to furhter link observed changes between conditions to the underlying molecular defects controlling such changes.&lt;/p>
+&lt;p>Using various model systems; including zebrafish mutants, 3D retinal organoid optic cup vesiciles, patient cell lines, iPSC stem cells and standard cell lines, I am interested in how genetic variants in eye disease functionally come about. These diseases include:-&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.fightforsight.org.uk/get-involved/family-funds-dedicated-groups/teamcrb1/" target="_blank" rel="noopener">CRB1-related Leber Congenital Amaurosis (LCA) and Retinitis Pigmentosa (RP)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rarediseases.info.nih.gov/diseases/5440/usher-syndrome-type-2a" target="_blank" rel="noopener">Ushers Syndrome&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://macs.org.uk/" target="_blank" rel="noopener">MAC (Microphthalmia, Anophthalmia and Coloboma)&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://iovs.arvojournals.org/article.aspx?articleid=2711472" target="_blank" rel="noopener">RDH12-related retinitis pigmentosa&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pubmed.ncbi.nlm.nih.gov/34405458/" target="_blank" rel="noopener">Myopia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;figure id="figure-gel-raredisease">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_6b4e8bd8d7f9f6066a28e84c849afadc.webp 400w,
+/media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_0185a8fd51352ab2ff5856a650cf5730.webp 760w,
+/media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_6b4e8bd8d7f9f6066a28e84c849afadc.webp"
+width="760"
+height="231"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>Using an analagous approach with the &lt;a href="https://www.genomicsengland.co.uk/initiatives/100000-genomes-project/rare-disease" target="_blank" rel="noopener">Genomics England 100,000 Genomes rare disease dataset (GEL)&lt;/a>, I utilise the RNA-seq data to identify potential novel causative genes from variants of uncertain significance (VUS) in specific patient cohorts.&lt;/p>
+&lt;p>Bioinformatics is used to term a field of biology that deals with the application of computer techniques to the management and analysis of biological data.&lt;/p></description></item><item><title>BMPR1B identified as a novel human ocular coloboma gene through cross-species meta-analysis</title><link>https://nicholas-owen.github.io/publication/2022-iovs/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/2022-iovs/</guid><description/></item><item><title>Shared morphological and molecular pathways in microphthalmia using patient-derived iPSC-optic vesicles</title><link>https://nicholas-owen.github.io/publication/2022-iovs2/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/2022-iovs2/</guid><description/></item><item><title>Rare disease genetic diagnosis with the Genomic England 100,000 Genomes Project (GEL) UK</title><link>https://nicholas-owen.github.io/project/project_gel/</link><pubDate>Fri, 06 May 2022 00:13:01 +0000</pubDate><guid>https://nicholas-owen.github.io/project/project_gel/</guid><description>
+&lt;details class="toc-inpage d-print-none " open>
+&lt;summary class="font-weight-bold">Table of Contents&lt;/summary>
+&lt;nav id="TableOfContents">&lt;/nav>
+&lt;/details>
+&lt;p>Genome sequencing is the process of determining the complete DNA sequence of an organism&amp;rsquo;s genome. This includes all of the organism&amp;rsquo;s genes, as well as any non-coding DNA. Although the predicted number of human genes before 2003 was around 300,000, with the &lt;a href="https://www.genome.gov/25520492/online-education-kit-2003-human-genome-project-completed" target="_blank" rel="noopener">completion of the human genome&lt;/a> sequencing projects, it was discovered we only have around 21,000 genes &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. With further developments in sequencing approaches, new high throughput methods, and reduction in resources required, the average cost of sequencing the human genome of an individual has been reduced from $2 billion to approximately £700 &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.&lt;/p>
+&lt;p>Genome sequencing has revolutionized our understanding of biology and has had a major impact on many areas of science and medicine. For example, it has led to the development of new cancer therapies and has helped us to better understand the evolution of viruses.&lt;/p>
+&lt;p>In partnership with the &lt;a href="https://www.england.nhs.uk/genomics/what-is-genomics/" target="_blank" rel="noopener">NHS&lt;/a>, &lt;a href="https://www.genomicsengland.co.uk/about-us/origins" target="_blank" rel="noopener">Genomics England&lt;/a> intially was setup to provide 100,000 whole genomes set out by the UK government in 2015. This was achieved in 2018, when over 100,000 genomes of families with rare diseases or cancer had been generated, to provide sequence based diagnostics to these families &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>.&lt;/p>
+&lt;p>Academics, clinicians, and students worldwide can join the research community at GEL, the &lt;a href="https://legacy.genomicsengland.co.uk/about-gecip/" target="_blank" rel="noopener">Genomics England Clinical Interpretations Partnership&lt;/a> (GECIP, for short). Being part of several GECIPs (Hearing and Sight, Neuroscience, Quantitative methods, machine learning and functional genomics;) has enabled me to query both the whole genome as well as the human phenotype data to establish novel causes of known eye conditions, and novel variants of known genes using the Research Embassy secureenvironment. Whilst all patient data remains on the &lt;a href="https://www.genomicsengland.co.uk/research/academic" target="_blank" rel="noopener">GEL Research Embassy&lt;/a>, bioinformatic scripts I have generated can be readily found on my &lt;a href="https://nicholas-owen.github.io" target="_blank" rel="noopener">GitHub repo
+&lt;i class="fas fa-code-branch pr-1 fa-fw">&lt;/i> &lt;/a>.&lt;/p>
+&lt;p>
+&lt;figure id="figure-moving-forward-to-personalised-genomic-medicine">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Genomic Medicine" srcset="
+/media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_6d347c306b1c61c6986b17d8ba0948ff.webp 400w,
+/media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_d0d87baa5c9c1b3c134eb236cabc56e4.webp 760w,
+/media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://nicholas-owen.github.io/media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_6d347c306b1c61c6986b17d8ba0948ff.webp"
+width="760"
+height="433"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+moving forward to personalised genomic medicine
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;!--- &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+--->
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a href="https://www.genome.gov/human-genome-project/timeline" target="_blank" rel="noopener">further information and timeline on the HGP&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>the costs associated with sequencing a genome fluctuate and this is only provided as a general guide. Often downstream analysis, such as variant prioritisation and validation add to service costs.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>&lt;a href="https://www.genomicsengland.co.uk/news/uk-sequenced-100000-genomes-nhs" target="_blank" rel="noopener">The UK has sequenced 100,000 whole genomes in the NHS&lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>BMPR1B identified as a novel human ocular coloboma gene through cross-species meta-analysis</title><link>https://nicholas-owen.github.io/talk/bmpr1b-identified-as-a-novel-human-ocular-coloboma-gene-through-cross-species-meta-analysis/</link><pubDate>Tue, 03 May 2022 08:34:01 +0000</pubDate><guid>https://nicholas-owen.github.io/talk/bmpr1b-identified-as-a-novel-human-ocular-coloboma-gene-through-cross-species-meta-analysis/</guid><description>
+&lt;div class="responsive-wrap">
+&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnd3yFUI1kvZ6ftlYKNlhPdIvfWIekuUKVQbAEk_c_uDz6C6vq6XwP1JWpmM_NPyIG18F2rnBKQYPA/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>
+&lt;/div></description></item><item><title>Meta-Analysis</title><link>https://nicholas-owen.github.io/project/meta_analysis/</link><pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/project/meta_analysis/</guid><description>&lt;p>Meta-research is an emerging discipline, whose goal is to evaluate and improve research practices. This research theme includes work on research methods, reproducibility, evaluation, and communicating science.&lt;/p>
+&lt;p>Whilst there is a push for research data to be made open and avaliable to all, the standardisation of how data is processed or even metadata on recording how data has been processed remains limited.&lt;/p>
+&lt;p>In order to overcome this, I have generated several modular bioinformatic pipelines that allow us to process numerous datasets in an identical manner, allowing us to devel further into the data and make comparative analysis. Often there is a distinct communication gap between data scientists and biologists. By providing detailed analysis reports for both the data exploration and interpretation, complete with interactive visualisations, I overcome this by providing tools that allow reseachers from all backgrounds to explore the data in a meaningful way. I have extensive molecular and cellular experience which enables me to ensure that any data interpretation is comprehensive to key bench researchers and can guide future experimental design. Appropriate communication is vital within MDTs (multi disciplinary teams) that often are needed for large research projects.&lt;/p>
+&lt;p>Some of the most intriguing meta-analysis recently has involved cross-species comparisons of epigenetics and transcriptomics. Using disease model systems we have been able to look at conserved gene expression patterns within eye tissues, across species ranging from zebrafish, chicken, mouse and human. This provides an invaluable insight into both the conserved and divergent molecular pathways involved.&lt;/p></description></item><item><title>Calling Variants from RNA-seq data</title><link>https://nicholas-owen.github.io/post/2022_04_02_rna-seq_variants/</link><pubDate>Sat, 02 Apr 2022 16:41:43 +0000</pubDate><guid>https://nicholas-owen.github.io/post/2022_04_02_rna-seq_variants/</guid><description>&lt;p>The current gold standard method of choice to study transcriptome expression is RNA-seq. This is commonly used to study gene expression patterns in a number of organisms; including human, animals and plants, in order to further understand genetic mechanisms underlying phenotype determination, diseases and results of environmental changes. Not only can RNA-seq analysis be used for gene expression, transcript modelling including the identification of novel expressed isoforms or alternative exon usage has become more popular. Examination of the long non-coding RNA atlas (lncRNA) and micro RNAs (miRNA) can readily be carried out using specific RNA-seq approaches. Combined with DNA-seq SNPs have been studied with feature expression data to identify expression quantitative trait locus (eQTL) via GWAS mapping or allele-specific expression (ASE) (for example the human GTEx Consortium, 2020).&lt;/p>
+&lt;p>With the phenomenon of RNA editing, where a nucleotide change can be observed at the RNA level, post DNA transcription, it is possible that variants can only be observed at the RNA level, absent at DNA level (such as WGS or WES). Therefore RNA-seq can also detect genomic variants in expressed regions of the genome, in addition to DNA-seq. With the current costs of RNA-seq per sample around £300 for 75M paired end reads (150bp), RNA-seq is an attractive approach for variant discovery.&lt;/p>
+&lt;p>Although there are clear advantages in using RNA-seq data for coding region SNP detection, it is not commonly carried out. There are a number of hurdles to overcome:&lt;/p>
+&lt;ul>
+&lt;li>transcriptome consists of mature/spliced transcripts&lt;/li>
+&lt;li>short reads frequently overlap exon-exon junctions&lt;/li>
+&lt;li>reads are commonly split using N cigars&lt;/li>
+&lt;/ul>
+&lt;p>There are distinct stages of analysis for variant calling from RNA-seq data. I will try to encompass all of them, so please skip ahead to sections you require.&lt;/p>
+&lt;p>Assumptions I will make: you have the raw reads processed for base scoring and quality controlled, removed adapters, a reference genome has been downloaded and indexes created for the &lt;a href="https://github.com/alexdobin/STAR" target="_blank" rel="noopener">STAR&lt;/a> splice-aware aligner, reads have been aligned using the index with two-pass alignment using STAR.&lt;/p>
+&lt;p>Key notes: ensure that ReadGroups have been added to your resulting BAM files - this can either be done within the aligner command with the argument
+&lt;code>--outSAMattrRGline ID:${sample_id} CN:{SampleCentre} DS:RNAseq LB:{LibraryType} PL:{Platform} SM:${sample_id}&lt;/code>&lt;/p>
+&lt;p>I am going to skip over the initial steps of quality control (QC) and alignment with STAR, as those are outlined in the RNA-seq workflow I have on github. There are however some key files that should have been generated when processing the reference genome fasta (.fa) and aligner index files. Ensure that the reference .fa is indexed correctly, I recommend &lt;a href="http://www.htslib.org/doc/samtools-faidx.html" target="_blank" rel="noopener">&lt;code>samtools faidx&lt;/code>&lt;/a> and that a dictonary (.dict) file has been created, for example with the &lt;a href="https://gatk.broadinstitute.org/hc/en-us/articles/4405443616667-CreateSequenceDictionary-Picard-" target="_blank" rel="noopener">&lt;code>picard CreateSequenceDictionary&lt;/code>&lt;/a> tool.&lt;/p>
+&lt;p>Analysis:
+&lt;figure id="figure-wowchemy">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://drive.google.com/uc?id=1yLptERtjtDzx36vqAPZCMJgvbhASdsjq" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>QC&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Alignment&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Split N Cigar Reads&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Base quality recalibration&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Call variants&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Base Quality Recalibration&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>-BLURB-&lt;/p>
+&lt;p>One of the hurdles that you may encounter using the&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">pwd&lt;/span> lets go
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>New year, new site</title><link>https://nicholas-owen.github.io/post/2022_01_31/</link><pubDate>Mon, 31 Jan 2022 14:50:13 +0000</pubDate><guid>https://nicholas-owen.github.io/post/2022_01_31/</guid><description>&lt;p>With my recent involvement with the &lt;a href="https://www.ukrn.org/" target="_blank" rel="noopener">UK Reproducibility Network&lt;/a>, and continued use of &lt;a href="https://github.com/nicholas-owen" title="Github" target="_blank" rel="noopener">GitHub&lt;/a> for code sharing, I thought it was long past due that I create a quick site to provide access to the code, analysis and associated data for the projects I am working with. The Wellcome Trust funds my position at the Institute of Ophthalmology (UCL) in the Ocular Genomics and Therapeutics lab of Professor &lt;a href="https://mariyamoosajee.com/" target="_blank" rel="noopener">Mariya Mosajee&lt;/a>, and with the Trust&amp;rsquo;s supportive attitude to open research I will document some of the projects and code that we are currently involved with.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Welcome&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">return&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Hello World&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-r" data-lang="r">&lt;span class="line">&lt;span class="cl">&lt;span class="nf">require&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">stats&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;#39; Compute different averages&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;#39; @param x \code{numeric} vector of sample data&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;#39; @param type \code{character} vector of length 1 specifying the average type&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;#39; @return \code{centre} returns the sample average according to the chosen method.&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;#39; @examples&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;#39; centre(rcauchy(10), &amp;#34;mean&amp;#34;)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;#39; @export&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">centre&lt;/span> &lt;span class="o">&amp;lt;-&lt;/span> &lt;span class="nf">function&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">type&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nf">switch&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">type&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">mean&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nf">mean&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">),&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">median&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nf">median&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">),&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">trimmed&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nf">mean&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">trim&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="m">.1&lt;/span>&lt;span class="p">))&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">x&lt;/span> &lt;span class="o">&amp;lt;-&lt;/span> &lt;span class="nf">rcauchy&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="m">10&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nf">centre&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s">&amp;#34;mean&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nf">library&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">ggplot2&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">models&lt;/span> &lt;span class="o">&amp;lt;-&lt;/span> &lt;span class="n">tibble&lt;/span>&lt;span class="o">::&lt;/span>&lt;span class="nf">tribble&lt;/span>&lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">~&lt;/span>&lt;span class="n">model_name&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="o">~&lt;/span> &lt;span class="n">formula&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="s">&amp;#34;length-width&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">Sepal.Length&lt;/span> &lt;span class="o">~&lt;/span> &lt;span class="n">Petal.Width&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="n">Petal.Length&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="s">&amp;#34;interaction&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">Sepal.Length&lt;/span> &lt;span class="o">~&lt;/span> &lt;span class="n">Petal.Width&lt;/span> &lt;span class="o">*&lt;/span> &lt;span class="n">Petal.Length&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">iris&lt;/span> &lt;span class="o">%&amp;gt;%&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nf">nest_by&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">Species&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="o">%&amp;gt;%&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nf">left_join&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">models&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">by&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nf">character&lt;/span>&lt;span class="p">())&lt;/span> &lt;span class="o">%&amp;gt;%&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nf">rowwise&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">Species&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">model_name&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="o">%&amp;gt;%&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nf">mutate&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">model&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nf">list&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nf">lm&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">formula&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">data&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">data&lt;/span>&lt;span class="p">)))&lt;/span> &lt;span class="o">%&amp;gt;%&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nf">summarise&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">broom&lt;/span>&lt;span class="o">::&lt;/span>&lt;span class="nf">glance&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">model&lt;/span>&lt;span class="p">))&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;gt; `summarise()` regrouping output by &amp;#39;Species&amp;#39;, &amp;#39;model_name&amp;#39; (override with `.groups` argument)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;gt; # A tibble: 6 x 13&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;gt; # Groups: Species, model_name [6]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;gt; Species model_name r.squared adj.r.squared sigma statistic p.value df&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;gt; &amp;lt;fct&amp;gt; &amp;lt;chr&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;int&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;gt; 1 setosa length-wi… 0.112 0.0739 0.339 2.96 6.18e- 2 3&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;gt; 2 setosa interacti… 0.133 0.0760 0.339 2.34 8.54e- 2 4&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;gt; 3 versic… length-wi… 0.574 0.556 0.344 31.7 1.92e- 9 3&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;gt; 4 versic… interacti… 0.577 0.549 0.347 20.9 1.11e- 8 4&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;gt; 5 virgin… length-wi… 0.747 0.736 0.327 69.3 9.50e-15 3&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;gt; 6 virgin… interacti… 0.757 0.741 0.323 47.8 3.54e-14 4&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;gt; # … with 5 more variables: logLik &amp;lt;dbl&amp;gt;, AIC &amp;lt;dbl&amp;gt;, BIC &amp;lt;dbl&amp;gt;, deviance &amp;lt;dbl&amp;gt;,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&amp;gt; # df.residual &amp;lt;int&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Identification of 4 novel human ocular coloboma genes ANK3, BMPR1B, PDGFRA, and CDH4 through evolutionary conserved vertebrate gene analysis</title><link>https://nicholas-owen.github.io/publication/pmid35034853/</link><pubDate>Thu, 13 Jan 2022 00:00:48 +0100</pubDate><guid>https://nicholas-owen.github.io/publication/pmid35034853/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1016/j.gim.2021.12.014" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1016/j.gim.2021.12.014" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;a href="https://plu.mx/plum/a/?doi=10.1016/j.gim.2021.12.014"
+data-orientation="horizontal"
+data-no-link="true"
+data-hide-print="true"
+class="plumx-details"
+data-site="plum"
+data-hide-when-empty="true">
+&lt;/a>
+&lt;/div>
+&lt;/section></description></item><item><title>Testicular somatic cell-like cells derived from embryonic stem cells induce differentiation of epiblasts into germ cells</title><link>https://nicholas-owen.github.io/publication/pmid34183774/</link><pubDate>Mon, 28 Jun 2021 22:48:58 +0100</pubDate><guid>https://nicholas-owen.github.io/publication/pmid34183774/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1038/s42003-021-02322-8" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1038/s42003-021-02322-8" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;a href="https://plu.mx/plum/a/?doi=10.1038/s42003-021-02322-8"
+data-orientation="horizontal"
+data-no-link="true"
+data-hide-print="true"
+class="plumx-details"
+data-site="plum"
+data-hide-when-empty="true">
+&lt;/a>
+&lt;/div>
+&lt;/section></description></item><item><title>REP1-deficiency causes systemic dysfunction of lipid metabolism and oxidative stress in choroideremia</title><link>https://nicholas-owen.github.io/publication/pmid33755601/</link><pubDate>Tue, 23 Mar 2021 15:05:11 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid33755601/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1172/jci.insight.146934" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1172/jci.insight.146934" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;/section></description></item><item><title>Omic's : from data to patients</title><link>https://nicholas-owen.github.io/talk/omics-from-data-to-patients/</link><pubDate>Wed, 17 Feb 2021 14:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/talk/omics-from-data-to-patients/</guid><description>
+&lt;div class="responsive-wrap">
+&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfZXywXnFfYZjs41d7ZwZqIPl1Skku1T48eClU4M7GlCu6CzDOfiZASp3exQqJztFlVekpmT9nUBUo/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>
+&lt;/div></description></item><item><title>Ocular Phenotype Associated with DYRK1A Variants</title><link>https://nicholas-owen.github.io/publication/pmid33562844/</link><pubDate>Fri, 05 Feb 2021 13:39:15 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid33562844/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.3390/genes12020234" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.3390/genes12020234" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;/section></description></item><item><title>From Transcriptomics to Treatment in Inherited Optic Neuropathies</title><link>https://nicholas-owen.github.io/publication/pmid33499292/</link><pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid33499292/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.3390/genes12020147" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="110.3390/genes12020147" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;/section></description></item><item><title>PAX6 missense variants in two families with isolated foveal hypoplasia and nystagmus: evidence of paternal postzygotic mosaicism</title><link>https://nicholas-owen.github.io/publication/pmid33024313/</link><pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid33024313/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1038/s41431-020-00737-1" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1038/s41431-020-00737-1" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;a href="https://plu.mx/plum/a/?doi=10.1038%2Fs41431-020-00737-1" data-hide-print="true" class="plumx-details" data-site="plum" data-hide-when-empty="true" data-no-link="true">PAX6 missense variants in two families with isolated foveal hypoplasia and nystagmus: evidence of paternal postzygotic mosaicism&lt;/a>
+&lt;/div>
+&lt;/section></description></item><item><title>Zebrafish retinal mRNA RNA-seq data processing</title><link>https://nicholas-owen.github.io/publication/pex-946/</link><pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pex-946/</guid><description/></item><item><title>Data sharing: A primer from UKRN</title><link>https://nicholas-owen.github.io/publication/primer-data/</link><pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/primer-data/</guid><description/></item><item><title>Open Code/Software: A primer from UKRN</title><link>https://nicholas-owen.github.io/publication/primer-opencode/</link><pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/primer-opencode/</guid><description/></item><item><title>Writing technical content in Markdown</title><link>https://nicholas-owen.github.io/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/post/writing-technical-content/</guid><description>&lt;p>Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p>
+&lt;p>&lt;strong>Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong>&lt;/p>
+&lt;p>On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p>
+&lt;h2 id="examples">Examples&lt;/h2>
+&lt;h3 id="code">Code&lt;/h3>
+&lt;p>Wowchemy supports a Markdown extension for highlighting code syntax. You can customize the styles under the &lt;code>syntax_highlighter&lt;/code> option in your &lt;code>config/_default/params.yaml&lt;/code> file.&lt;/p>
+&lt;pre>&lt;code>```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">pandas&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="nn">pd&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">data&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">pd&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">read_csv&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;data.csv&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">data&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">head&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="mindmaps">Mindmaps&lt;/h3>
+&lt;p>Wowchemy supports a Markdown extension for mindmaps.&lt;/p>
+&lt;p>Simply insert a Markdown &lt;code>markmap&lt;/code> code block and optionally set the height of the mindmap as shown in the example below.&lt;/p>
+&lt;p>A simple mindmap defined as a Markdown list:&lt;/p>
+&lt;div class="highlight">
+&lt;pre class="chroma">
+&lt;code>
+```markmap {height="200px"}
+- Hugo Modules
+- wowchemy
+- wowchemy-plugins-netlify
+- wowchemy-plugins-netlify-cms
+- wowchemy-plugins-reveal
+```
+&lt;/code>
+&lt;/pre>
+&lt;/div>
+&lt;p>renders as&lt;/p>
+&lt;div class="markmap" style="height: 200px;">
+&lt;pre>- Hugo Modules
+- wowchemy
+- wowchemy-plugins-netlify
+- wowchemy-plugins-netlify-cms
+- wowchemy-plugins-reveal&lt;/pre>
+&lt;/div>
+&lt;p>A more advanced mindmap with formatting, code blocks, and math:&lt;/p>
+&lt;div class="highlight">
+&lt;pre class="chroma">
+&lt;code>
+```markmap
+- Mindmaps
+- Links
+- [Wowchemy Docs](https://wowchemy.com/docs/)
+- [Discord Community](https://discord.gg/z8wNYzb)
+- [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+- Features
+- Markdown formatting
+- **inline** ~~text~~ *styles*
+- multiline
+text
+- `inline code`
+-
+```js
+console.log('hello');
+console.log('code block');
+```
+- Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+&lt;/code>
+&lt;/pre>
+&lt;/div>
+&lt;p>renders as&lt;/p>
+&lt;div class="markmap" style="height: 500px;">
+&lt;pre>- Mindmaps
+- Links
+- [Wowchemy Docs](https://wowchemy.com/docs/)
+- [Discord Community](https://discord.gg/z8wNYzb)
+- [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+- Features
+- Markdown formatting
+- **inline** ~~text~~ *styles*
+- multiline
+text
+- `inline code`
+-
+```js
+console.log('hello');
+console.log('code block');
+```
+- Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre>
+&lt;/div>
+&lt;h3 id="charts">Charts&lt;/h3>
+&lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
+&lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
+&lt;p>Demo:&lt;/p>
+&lt;div id="chart-841263759" class="chart">&lt;/div>
+&lt;script>
+(function() {
+let a = setInterval( function() {
+if ( typeof window.Plotly === 'undefined' ) {
+return;
+}
+clearInterval( a );
+Plotly.d3.json("./line-chart.json", function(chart) {
+Plotly.plot('chart-841263759', chart.data, chart.layout, {responsive: true});
+});
+}, 500 );
+})();
+&lt;/script>
+&lt;p>You might also find the &lt;a href="http://plotly-json-editor.getforge.io/" target="_blank" rel="noopener">Plotly JSON Editor&lt;/a> useful.&lt;/p>
+&lt;h3 id="math">Math&lt;/h3>
+&lt;p>Wowchemy supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code>math&lt;/code> option in your &lt;code>config/_default/params.yaml&lt;/code> file.&lt;/p>
+&lt;p>To render &lt;em>inline&lt;/em> or &lt;em>block&lt;/em> math, wrap your LaTeX math with &lt;code>{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code> or &lt;code>{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code>, respectively. (We wrap the LaTeX math in the Wowchemy &lt;em>math&lt;/em> shortcode to prevent Hugo rendering our math as Markdown. The &lt;em>math&lt;/em> shortcode is new in v5.5-dev.)&lt;/p>
+&lt;p>Example &lt;strong>math block&lt;/strong>:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-latex" data-lang="latex">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; math &amp;gt;&lt;span class="nb">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sb">$$&lt;/span>&lt;span class="nb">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">&lt;/span>&lt;span class="nv">\gamma&lt;/span>&lt;span class="nb">_{n} &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\frac&lt;/span>&lt;span class="nb">{ &lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> | &lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n} &lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">} &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb">^T &lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">[&lt;/span>&lt;span class="nv">\nabla&lt;/span>&lt;span class="nb"> F &lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\nabla&lt;/span>&lt;span class="nb"> F &lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">]&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> |}{&lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\|\nabla&lt;/span>&lt;span class="nb"> F&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb">{x}_{n}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\nabla&lt;/span>&lt;span class="nb"> F&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb">{x}_{n&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\|&lt;/span>&lt;span class="nb">^&lt;/span>&lt;span class="m">2&lt;/span>&lt;span class="nb">}
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">&lt;/span>&lt;span class="s">$$&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; /math &amp;gt;&lt;span class="nb">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+&lt;p>Example &lt;strong>inline math&lt;/strong> &lt;code>{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code> renders as
+$\nabla F(\mathbf{x}_{n})$.&lt;/p>
+&lt;p>Example &lt;strong>multi-line math&lt;/strong> using the math linebreak (&lt;code>\\&lt;/code>):&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-latex" data-lang="latex">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; math &amp;gt;&lt;span class="nb">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sb">$$&lt;/span>&lt;span class="nb">f&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nb">k;p_{&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">}^{&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="nb">}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\begin&lt;/span>&lt;span class="nb">{cases}p_{&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">}^{&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="nb">} &amp;amp; &lt;/span>&lt;span class="nv">\text&lt;/span>&lt;span class="nb">{if }k&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">, &lt;/span>&lt;span class="nv">\\&lt;/span>&lt;span class="nb">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb">p_{&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">}^{&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="nb">} &amp;amp; &lt;/span>&lt;span class="nv">\text&lt;/span>&lt;span class="nb">{if }k&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">.&lt;/span>&lt;span class="nv">\end&lt;/span>&lt;span class="nb">{cases}&lt;/span>&lt;span class="s">$$&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; /math &amp;gt;&lt;span class="nb">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+&lt;h3 id="diagrams">Diagrams&lt;/h3>
+&lt;p>Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code>diagram&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file or by adding &lt;code>diagram: true&lt;/code> to your page front matter.&lt;/p>
+&lt;p>An example &lt;strong>flowchart&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="mermaid">graph TD
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+&lt;/div>
+&lt;p>An example &lt;strong>sequence diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="mermaid">sequenceDiagram
+Alice->>John: Hello John, how are you?
+loop Healthcheck
+John->>John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John-->>Alice: Great!
+John->>Bob: How about you?
+Bob-->>John: Jolly good!
+&lt;/div>
+&lt;p>An example &lt;strong>Gantt diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+gantt
+section Section
+Completed :done, des1, 2014-01-06,2014-01-08
+Active :active, des2, 2014-01-07, 3d
+Parallel 1 : des3, after des1, 1d
+Parallel 2 : des4, after des1, 1d
+Parallel 3 : des5, after des3, 1d
+Parallel 4 : des6, after des4, 1d
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="mermaid">gantt
+section Section
+Completed :done, des1, 2014-01-06,2014-01-08
+Active :active, des2, 2014-01-07, 3d
+Parallel 1 : des3, after des1, 1d
+Parallel 2 : des4, after des1, 1d
+Parallel 3 : des5, after des3, 1d
+Parallel 4 : des6, after des4, 1d
+&lt;/div>
+&lt;p>An example &lt;strong>class diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &amp;lt;--&amp;gt; C2: Cool label
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="mermaid">classDiagram
+Class01 &lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --> C2 : Where am i?
+Class09 --* C3
+Class09 --|> Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &lt;--> C2: Cool label
+&lt;/div>
+&lt;p>An example &lt;strong>state diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="mermaid">stateDiagram
+[*] --> Still
+Still --> [*]
+Still --> Moving
+Moving --> Still
+Moving --> Crash
+Crash --> [*]
+&lt;/div>
+&lt;h3 id="todo-lists">Todo lists&lt;/h3>
+&lt;p>You can even write your todo lists in Markdown too:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">&lt;span class="k">- [x]&lt;/span> Write math example
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">- [x]&lt;/span> Write diagram example
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">- [ ]&lt;/span> Do something else
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write math example
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write diagram example&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Do something else&lt;/li>
+&lt;/ul>
+&lt;h3 id="tables">Tables&lt;/h3>
+&lt;p>Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em>Table&lt;/em> shortcode to your page:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-go" data-lang="go">&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&amp;lt;&lt;/span> &lt;span class="nx">table&lt;/span> &lt;span class="nx">path&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;results.csv&amp;#34;&lt;/span> &lt;span class="nx">header&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;true&amp;#34;&lt;/span> &lt;span class="nx">caption&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;Table 1: My results&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;table class="table">
+&lt;tr> &lt;th>customer_id&lt;/th> &lt;th>score&lt;/th> &lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">1&lt;/td>
+&lt;td data-table-dtype="number">0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2&lt;/td>
+&lt;td data-table-dtype="text">0.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">3&lt;/td>
+&lt;td data-table-dtype="number">1&lt;/td>
+&lt;/tr>
+&lt;caption>Table 1: My results&lt;/caption>
+&lt;/table>
+&lt;h3 id="callouts">Callouts&lt;/h3>
+&lt;p>Academic supports a &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/#callouts" target="_blank" rel="noopener">shortcode for callouts&lt;/a>, also referred to as &lt;em>asides&lt;/em>, &lt;em>hints&lt;/em>, or &lt;em>alerts&lt;/em>. By wrapping a paragraph in &lt;code>{{% callout note %}} ... {{% /callout %}}&lt;/code>, it will render as an aside.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{% callout note %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% /callout %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/div>
+&lt;/div>
+&lt;h3 id="spoilers">Spoilers&lt;/h3>
+&lt;p>Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">spoiler&lt;/span> &lt;span class="na">text&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;Click to view the spoiler&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">You found me!
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">spoiler&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;details class="spoiler " id="spoiler-6">
+&lt;summary>Click to view the spoiler&lt;/summary>
+&lt;p>You found me!&lt;/p>
+&lt;/details>
+&lt;h3 id="icons">Icons&lt;/h3>
+&lt;p>Academic enables you to use a wide range of &lt;a href="https://wowchemy.com/docs/getting-started/page-builder/#icons" target="_blank" rel="noopener">icons from &lt;em>Font Awesome&lt;/em> and &lt;em>Academicons&lt;/em>&lt;/a> in addition to &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/#emojis" target="_blank" rel="noopener">emojis&lt;/a>.&lt;/p>
+&lt;p>Here are some examples using the &lt;code>icon&lt;/code> shortcode to render icons:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">icon&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;terminal&amp;#34;&lt;/span> &lt;span class="na">pack&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;fas&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}} Terminal
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">icon&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;python&amp;#34;&lt;/span> &lt;span class="na">pack&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;fab&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}} Python
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">icon&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;r-project&amp;#34;&lt;/span> &lt;span class="na">pack&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;fab&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}} R
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;p>
+&lt;i class="fas fa-terminal pr-1 fa-fw">&lt;/i> Terminal&lt;br>
+&lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> Python&lt;br>
+&lt;i class="fab fa-r-project pr-1 fa-fw">&lt;/i> R&lt;/p>
+&lt;h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h3></description></item><item><title>RNA-sequencing in ophthalmology research: considerations for experimental design and analysis</title><link>https://nicholas-owen.github.io/publication/pmid30911735/</link><pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid30911735/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1177/2515841419835460" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1177/2515841419835460" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner" style="float:center">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;span style="float:left">&lt;a href="https://plu.mx/plum/a/?doi=10.1177/2515841419835460"
+data-orientation="horizontal"
+class="plumx-details"
+data-hide-print="true"
+data-no-link="true"
+data-site="plum"
+data-hide-when-empty="true">
+&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/section></description></item><item><title>Transcriptome profiling of zebrafish optic fissure fusion</title><link>https://nicholas-owen.github.io/publication/pmid30733552/</link><pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid30733552/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1038/s41598-018-38379-5" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1038/s41598-018-38379-5" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;a href="https://plu.mx/plum/a/?doi=10.1038/s41598-018-38379-5"
+data-orientation="horizontal"
+data-no-link="true"
+data-hide-print="true"
+class="plumx-details"
+data-site="plum"
+data-hide-when-empty="true">
+&lt;/a>
+&lt;/div>
+&lt;/section></description></item><item><title>Display Jupyter Notebooks with Academic</title><link>https://nicholas-owen.github.io/post/jupyter/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/post/jupyter/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">IPython.core.display&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">Image&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">Image&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./index_1_0.png" alt="png" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Welcome to Academic!&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre>&lt;code>Welcome to Academic!
+&lt;/code>&lt;/pre>
+&lt;h2 id="install-python-and-jupyterlab">Install Python and JupyterLab&lt;/h2>
+&lt;p>&lt;a href="https://www.anaconda.com/distribution/#download-section" target="_blank" rel="noopener">Install Anaconda&lt;/a> which includes Python 3 and JupyterLab.&lt;/p>
+&lt;p>Alternatively, install JupyterLab with &lt;code>pip3 install jupyterlab&lt;/code>.&lt;/p>
+&lt;h2 id="create-or-upload-a-jupyter-notebook">Create or upload a Jupyter notebook&lt;/h2>
+&lt;p>Run the following commands in your Terminal, substituting &lt;code>&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code> and &lt;code>&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code> with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">jupyter lab index.ipynb
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>The &lt;code>jupyter&lt;/code> command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p>
+&lt;h2 id="edit-your-post-metadata">Edit your post metadata&lt;/h2>
+&lt;p>The first cell of your Jupter notebook will contain your post metadata (&lt;a href="https://sourcethemes.com/academic/docs/front-matter/" target="_blank" rel="noopener">front matter&lt;/a>).&lt;/p>
+&lt;p>In Jupter, choose &lt;em>Markdown&lt;/em> as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">---
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">title: My post&amp;#39;s title
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">date: 2019-09-01
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"># Put any other Academic metadata here...
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">---
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Edit the metadata of your post, using the &lt;a href="https://sourcethemes.com/academic/docs/managing-content" target="_blank" rel="noopener">documentation&lt;/a> as a guide to the available options.&lt;/p>
+&lt;p>To set a &lt;a href="https://sourcethemes.com/academic/docs/managing-content/#featured-image" target="_blank" rel="noopener">featured image&lt;/a>, place an image named &lt;code>featured&lt;/code> into your post&amp;rsquo;s folder.&lt;/p>
+&lt;p>For other tips, such as using math, see the guide on &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">writing content with Academic&lt;/a>.&lt;/p>
+&lt;h2 id="convert-notebook-to-markdown">Convert notebook to Markdown&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class="o">=&lt;/span>.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="example">Example&lt;/h2>
+&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter" target="_blank" rel="noopener">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Slides</title><link>https://nicholas-owen.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://revealjs.com/pdf-export/" target="_blank" rel="noopener">PDF Export&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="n">porridge&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="n">porridge&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Eating...&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>In-line math: $x + y = z$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">{{% fragment %}} One {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} Three {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;span class="fragment " >
+One
+&lt;/span>
+&lt;span class="fragment " >
+&lt;strong>Two&lt;/strong>
+&lt;/span>
+&lt;span class="fragment " >
+Three
+&lt;/span>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{% speaker_note %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Only the speaker can read these notes
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Press &lt;span class="sb">`S`&lt;/span> key to view
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> {{% /speaker_note %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-image&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;/media/boards.jpg&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-color&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;#0000FF&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;my-style&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-css" data-lang="css">&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h1&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h2&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h3&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">color&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="kc">navy&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Genome-wide RNA-Sequencing analysis identifies a distinct fibrosis gene signature in the conjunctiva after glaucoma surgery</title><link>https://nicholas-owen.github.io/publication/pmid28717200/</link><pubDate>Mon, 17 Jul 2017 15:17:54 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid28717200/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1038/s41598-017-05780-5" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1038/s41598-017-05780-5" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;/section></description></item><item><title>Nonsyndromic Retinal Dystrophy due to Bi-Allelic Mutations in the Ciliary Transport Gene IFT140</title><link>https://nicholas-owen.github.io/publication/pmid26968735/</link><pubDate>Tue, 01 Mar 2016 15:23:10 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid26968735/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1167/iovs.15-17976" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1167/iovs.15-17976" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;/section></description></item><item><title>BORIS/CTCFL is an RNA-binding protein that associates with polysomes</title><link>https://nicholas-owen.github.io/publication/pmid24279897/</link><pubDate>Tue, 26 Nov 2013 14:46:39 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid24279897/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1186/1471-2121-14-52" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1186/1471-2121-14-52" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;/section></description></item><item><title>Functional mammalian spliceosomal complex E contains SMN complex proteins in addition to U1 and U2 snRNPs</title><link>https://nicholas-owen.github.io/publication/pmid22110043/</link><pubDate>Thu, 01 Mar 2012 16:57:03 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid22110043/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1093/nar/gkr1056" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1093/nar/gkr1056" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner" style="float:center">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;span style="float:left">&lt;a href="https://plu.mx/plum/a/?doi=10.1093/nar/gkr1056"
+data-orientation="horizontal"
+class="plumx-details"
+data-hide-print="true"
+data-no-link="true"
+data-site="plum"
+data-hide-when-empty="true">
+&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/section></description></item><item><title>Design principles for bifunctional targeted oligonucleotide enhancers of splicing</title><link>https://nicholas-owen.github.io/publication/pmid21602265/</link><pubDate>Fri, 20 May 2011 23:45:13 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid21602265/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1093/nar/gkr152" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1093/nar/gkr152" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;a href="https://plu.mx/plum/a/?doi=10.1093/nar/gkr152"
+data-orientation="horizontal"
+data-no-link="true"
+data-hide-print="true"
+class="plumx-details"
+data-site="plum"
+data-hide-when-empty="true">
+&lt;/a>
+&lt;/div>
+&lt;/section></description></item><item><title>Characterization of the Schizosaccharomyces pombe orthologue of the human survival motor neuron (SMN) protein</title><link>https://nicholas-owen.github.io/publication/pmid10749974/</link><pubDate>Sun, 12 Mar 2000 17:04:01 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid10749974/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1093/hmg/9.5.675" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1093/hmg/9.5.675" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;a href="https://plu.mx/plum/a/?doi=10.1093/hmg/9.5.675"
+data-orientation="horizontal"
+data-no-link="true"
+data-hide-print="true"
+class="plumx-details"
+data-site="plum"
+data-hide-when-empty="true">
+&lt;/a>
+&lt;/div>
+&lt;/section></description></item><item><title/><link>https://nicholas-owen.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/admin/config.yml</guid><description/></item></channel></rss>

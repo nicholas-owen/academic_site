@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>zebrafish | Nicholas Owen</title><link>https://nicholas-owen.github.io/tag/zebrafish/</link><atom:link href="https://nicholas-owen.github.io/tag/zebrafish/index.xml" rel="self" type="application/rss+xml"/><description>zebrafish</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://nicholas-owen.github.io/media/icon_hu07429c437791d875b8a61cf6e8a19306_182833_512x512_fill_lanczos_center_3.png</url><title>zebrafish</title><link>https://nicholas-owen.github.io/tag/zebrafish/</link></image><item><title>Loss of the crumbs cell polarity complex disrupts epigenetic transcriptional control and cell cycle progression in the developing retina</title><link>https://nicholas-owen.github.io/publication/pmid36656098/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid36656098/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1002/path.6056" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1002/path.6056" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;a href="https://plu.mx/plum/a/?doi=10.1002/path.6056"
+data-orientation="horizontal"
+data-no-link="true"
+data-hide-print="true"
+class="plumx-details"
+data-site="plum"
+data-hide-when-empty="true">
+&lt;/a>
+&lt;/div>
+&lt;/section></description></item><item><title>Zebrafish retinal mRNA RNA-seq data processing</title><link>https://nicholas-owen.github.io/publication/pex-946/</link><pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pex-946/</guid><description/></item><item><title>Transcriptome profiling of zebrafish optic fissure fusion</title><link>https://nicholas-owen.github.io/publication/pmid30733552/</link><pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate><guid>https://nicholas-owen.github.io/publication/pmid30733552/</guid><description>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>&lt;/script>
+&lt;html>
+&lt;style>
+section {
+background: white;
+color: black;
+border-radius: 1em;
+padding: 1em;
+left: 50% }
+#inner {
+display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center }
+&lt;/style>
+&lt;section>
+&lt;div id="inner">
+&lt;span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1038/s41598-018-38379-5" data-hide-zero-citations="true" data-legend="always">
+&lt;/span>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;div style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
+data-doi="10.1038/s41598-018-38379-5" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&lt;/div>
+&lt;/div>
+&lt;div id="inner">
+&lt;script type="text/javascript" src="//cdn.plu.mx/widget-details.js">&lt;/script>
+&lt;a href="https://plu.mx/plum/a/?doi=10.1038/s41598-018-38379-5"
+data-orientation="horizontal"
+data-no-link="true"
+data-hide-print="true"
+class="plumx-details"
+data-site="plum"
+data-hide-when-empty="true">
+&lt;/a>
+&lt;/div>
+&lt;/section></description></item></channel></rss>
